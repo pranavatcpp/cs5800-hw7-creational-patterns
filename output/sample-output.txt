@@ -1,0 +1,20 @@
+Part 1: Three Pizza Hut pizzas
+Pizza Hut | Small | 3 toppings: Pepperoni, Sausage, Mushrooms
+Pizza Hut | Medium | 6 toppings: Bacon, Onions, Extra Cheese, Peppers, Chicken, Olives
+Pizza Hut | Large | 9 toppings: Pepperoni, Sausage, Mushrooms, Bacon, Onions, Extra Cheese, Peppers, Chicken, Olives
+
+Part 2: Three pizza chains
+Pizza Hut | Large | 3 toppings: Pepperoni, Mushrooms, Extra Cheese
+Pizza Hut | Small | 2 toppings: Ham, Pesto
+Little Caesars | Medium | 8 toppings: Sausage, Bacon, Onions, Peppers, Chicken, Olives, Spinach, Tomato and Basil
+Little Caesars | Small | 6 toppings: Pepperoni, Mushrooms, Extra Cheese, Beef, Spicy Pork, Ham and Pineapple
+Dominos | Small | 1 topping: Ham and Pineapple
+Dominos | Large | 3 toppings: Spinach, Tomato and Basil, Pesto
+
+Macronutrient meals
+Alex (No Restriction) | Carbs: Bread | Protein: Chicken | Fats: Sour cream
+Blair (Paleo) | Carbs: Pistachio | Protein: Chicken | Fats: Peanuts
+Casey (Vegan) | Carbs: Pistachio | Protein: Tofu | Fats: Avocado
+Devon (Nut Allergy) | Carbs: Bread | Protein: Fish | Fats: Sour cream
+Emery (No Restriction) | Carbs: Pistachio | Protein: Beef | Fats: Peanuts
+Finley (Vegan) | Carbs: Bread | Protein: Tofu | Fats: Peanuts
